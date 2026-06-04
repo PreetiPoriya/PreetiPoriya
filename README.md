@@ -1,37 +1,65 @@
-Hi there, I'm Preeti Poriya 👋
-        
+# Hi, I'm Preeti 👋
 
-I'm passionate about Machine Learning, Data Science, Large Language Models (LLMs) and Generative AI.
+![](https://komarev.com/ghpvc/?username=PreetiPoriya&color=blue)
 
+## 👩‍💻 About Me
+- 🎓 MSc Mathematics student at IIT Delhi
+- 🌱 Currently learning Machine Learning, Deep Learning and Data Science
+- 💬 Ask me about Python, SQL, Statistics and Mathematics
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I come from an Arts + Mathematics background, and my first programming language was learned during my Master's at IIT Delhi.
 
+## ✨ An Unconventional Path to Technology
+I completed my Bachelor's degree with a background in Arts and Mathematics. During my undergraduate studies, I had no exposure to programming and had never written a single line of code.
 
+My journey into technology began after joining IIT Delhi for my Master's in Mathematics. There, I was introduced to programming and quickly discovered how fascinating problem-solving through code could be. What started as curiosity gradually turned into a strong interest in Data Science, Machine Learning, and Artificial Intelligence.
 
-👨‍🎓🙋‍♂️ About Me 💼🎒:
-I hold a Masters Degree in Mathematics at IIT Delhi.
-
-
-🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Below are some used models:
-
-Linear Regression
-Logistic Regression
-Support Vector Machines (SVM)
-Decision Trees (DT)
-Random Forests (RF)
-K-Nearest Neighbors (KNN)
-Deep Neural Networks
-Convolutional Neural Networks (CNN)
-Recurrent Neural Networks (RNN)
-Naive Bayes (NB)
-Gradient Boosted Decision Trees (GBDT)
-XGBoost
-Long Short-Term Memory (LSTM)
-🔭 Below are some state-of-the-art (SOTA) time series forecasting models used in various real-time projects:
-
-Auto-Regressive (AR) Model
-Auto-Regressive Moving Averages (ARMA) Model
-Auto-Regressive Integrated Moving Averages (ARIMA) Model
-Neural Hierarchical Interpolation of Time Series (N-HiTS) Model
-Seasonal Auto-Regressive Integrated Moving Averages (SARIMA) Model
-🔭 Furthermore, below are some of the tools used during my experience for Generative AI:
+Coming from a non-technical background has taught me that dedication, consistency, and a willingness to learn can open doors to entirely new fields.
 
 
+## 📫 How to reach me:
+
+<a href="https://www.linkedin.com/in/preetiporiya8040a343">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+</a>
+
+<a href="https://github.com/PreetiPoriya">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</a>
+
+<a href="mailto:poriyapreeti2002@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
+</a>
+
+---
+
+## 👩‍💻 Languages and Tools
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Preeti's GitHub stats](https://github-readme-stats.vercel.app/api?username=PreetiPoriya&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PreetiPoriya&layout=compact)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=PreetiPoriya)
+
+---
+
+### ⭐ Thanks for visiting my profile!
