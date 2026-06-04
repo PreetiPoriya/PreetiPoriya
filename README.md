@@ -2,23 +2,6 @@
 🚀 A Mathematics student exploring the endless possibilities of Data Science, Machine Learning and AI.
 
 ---
-
-## 👩‍💻 About Me
-
-- 🎓 MSc Mathematics student at IIT Delhi
-- 🌱 Currently learning Machine Learning, Deep Learning and Data Science
-- 💬 Ask me about Python, SQL, Statistics and Mathematics
-- ⚡ Fun fact: I come from an Arts + Mathematics background, and my first programming language was learned during my Master's at IIT Delhi.
-
-## ✨ An Unconventional Path to Technology
-I completed my Bachelor's degree with a background in Arts and Mathematics. During my undergraduate studies, I had no exposure to programming and had never written a single line of code.
-
-My journey into technology began after joining IIT Delhi for my Master's in Mathematics. There, I was introduced to programming and quickly discovered how fascinating problem-solving through code could be. What started as curiosity gradually turned into a strong interest in Data Science, Machine Learning, and Artificial Intelligence.
-
-Coming from a non-technical background has taught me that dedication, consistency, and a willingness to learn can open doors to entirely new fields.
-
----
-
 ## 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/preetiporiyaa8040a343" title="LinkedIn">
@@ -36,6 +19,24 @@ Coming from a non-technical background has taught me that dedication, consistenc
 <a href="https://iitd.almaconnect.com/profiles/preeti-poriya" title="AlmaConnect">
   <img src="https://img.icons8.com/color/48/graduation-cap.png" width="40"/>
 </a>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 MSc Mathematics student at IIT Delhi
+- 🌱 Currently learning Machine Learning, Deep Learning and Data Science
+- 💬 Ask me about Python, SQL, Statistics and Mathematics
+- ⚡ Fun fact: I come from an Arts + Mathematics background, and my first programming language was learned during my Master's at IIT Delhi.
+
+## ✨ An Unconventional Path to Technology
+I completed my Bachelor's degree with a background in Arts and Mathematics. During my undergraduate studies, I had no exposure to programming and had never written a single line of code.
+
+My journey into technology began after joining IIT Delhi for my Master's in Mathematics. There, I was introduced to programming and quickly discovered how fascinating problem-solving through code could be. What started as curiosity gradually turned into a strong interest in Data Science, Machine Learning, and Artificial Intelligence.
+
+Coming from a non-technical background has taught me that dedication, consistency, and a willingness to learn can open doors to entirely new fields.
+
+---
 
 ## 👩‍💻 Languages and Tools
 
