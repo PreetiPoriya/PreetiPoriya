@@ -1,5 +1,4 @@
 # Hi, I'm Preeti 👋
----
 
 ![](https://komarev.com/ghpvc/?username=PreetiPoriya&color=blue)
 
@@ -17,6 +16,7 @@ My journey into technology began after joining IIT Delhi for my Master's in Math
 
 Coming from a non-technical background has taught me that dedication, consistency, and a willingness to learn can open doors to entirely new fields.
 
+---
 
 ## 📫 How to reach me:
 
@@ -32,12 +32,10 @@ Coming from a non-technical background has taught me that dedication, consistenc
 <a href="mailto:poriyapreeti2002@gmail.com">
   <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
 </a>
-
 ---
+
 
 ## 👩‍💻 Languages and Tools
-
----
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -49,7 +47,7 @@ Coming from a non-technical background has taught me that dedication, consistenc
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
-
+---
 
 ## 📊 GitHub Stats
 
