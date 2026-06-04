@@ -1,5 +1,27 @@
-## Hi there 👋
+# Hi, I'm Preeti 👋
 
+🎓 MSc Mathematics @ IIT Delhi
 
-**PreetiPoriya/PreetiPoriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring Data Analyst / Data Scientist
+
+💻 Skills:
+- Python
+- SQL
+- Excel
+- Power BI
+- Pandas
+- NumPy
+- Machine Learning
+
+🌱 Currently Learning:
+- Data Mining
+- Deep Learning
+- Statistical Modeling
+
+📫 Reach me:
+- LinkedIn: your-linkedin
+- Email: your-email
+
+⚡ Fun Fact:
+Coming from a non-CS background, I started coding only after joining IIT Delhi.
 
