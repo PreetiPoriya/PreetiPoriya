@@ -9,7 +9,6 @@
 - 🎓 MSc Mathematics student at IIT Delhi
 - 🌱 Currently learning Machine Learning, Deep Learning and Data Science
 - 💬 Ask me about Python, SQL, Statistics and Mathematics
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I come from an Arts + Mathematics background, and my first programming language was learned during my Master's at IIT Delhi.
 
 ## ✨ An Unconventional Path to Technology
