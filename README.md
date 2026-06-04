@@ -2,7 +2,6 @@
 🚀 A Mathematics student exploring the endless possibilities of Data Science, Machine Learning and AI.
 
 ---
-![](https://komarev.com/ghpvc/?username=PreetiPoriya&color=blue)
 
 ## 👩‍💻 About Me
 
