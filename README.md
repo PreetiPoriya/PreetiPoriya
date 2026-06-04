@@ -25,3 +25,6 @@
 ⚡ Fun Fact:
 Coming from a non-CS background, I started coding only after joining IIT Delhi.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PreetiPoriya&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PreetiPoriya&layout=compact)
