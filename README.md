@@ -2,19 +2,18 @@
 
 🎓 MSc Mathematics @ IIT Delhi
 
-📊 Aspiring Data Analyst / Data Scientist
+📊 Aspiring Data Scientist
 
 💻 Skills:
 - Python
 - SQL
-- Excel
-- Power BI
 - Pandas
 - NumPy
+- Matplotlib
+- Seaborn
 - Machine Learning
 
 🌱 Currently Learning:
-- Data Mining
 - Deep Learning
 - Statistical Modeling
 
