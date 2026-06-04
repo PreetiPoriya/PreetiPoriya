@@ -5,7 +5,6 @@
 
 ## 👩‍💻 About Me
 
----
 - 🎓 MSc Mathematics student at IIT Delhi
 - 🌱 Currently learning Machine Learning, Deep Learning and Data Science
 - 💬 Ask me about Python, SQL, Statistics and Mathematics
