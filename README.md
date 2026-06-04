@@ -34,6 +34,9 @@ Coming from a non-technical background has taught me that dedication, consistenc
   <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
 </a>
 
+<a href="https://iitd.almaconnect.com/profiles/preeti-poriya">
+  <img src="https://img.icons8.com/color/48/graduation-cap.png" width="40"/>
+</a>
 
 ## 👩‍💻 Languages and Tools
 
