@@ -22,19 +22,19 @@ Coming from a non-technical background has taught me that dedication, consistenc
 
 ## 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/preetiporiyaa8040a343">
+<a href="https://www.linkedin.com/in/preetiporiyaa8040a343" title="LinkedIn">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
 
-<a href="https://github.com/PreetiPoriya">
+<a href="https://github.com/PreetiPoriya" title="GitHub">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </a>
 
-<a href="mailto:poriyapreeti2002@gmail.com">
+<a href="mailto:poriyapreeti2002@gmail.com" title="Email">
   <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
 </a>
 
-<a href="https://iitd.almaconnect.com/profiles/preeti-poriya">
+<a href="https://iitd.almaconnect.com/profiles/preeti-poriya" title="AlmaConnect">
   <img src="https://img.icons8.com/color/48/graduation-cap.png" width="40"/>
 </a>
 
