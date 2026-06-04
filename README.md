@@ -18,10 +18,10 @@ My journey into technology began after joining IIT Delhi for my Master's in Math
 
 Coming from a non-technical background has taught me that dedication, consistency, and a willingness to learn can open doors to entirely new fields.
 
+---
 
 ## 📫 How to reach me:
 
----
 <a href="https://www.linkedin.com/in/preetiporiyaa8040a343">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
@@ -37,7 +37,6 @@ Coming from a non-technical background has taught me that dedication, consistenc
 
 ## 👩‍💻 Languages and Tools
 
----
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -52,8 +51,6 @@ Coming from a non-technical background has taught me that dedication, consistenc
 
 ## 📊 GitHub Stats
 
----
-
 ![Preeti's GitHub stats](https://github-readme-stats.vercel.app/api?username=PreetiPoriya&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PreetiPoriya&layout=compact)
@@ -61,10 +58,7 @@ Coming from a non-technical background has taught me that dedication, consistenc
 
 ## 🔥 GitHub Streak
 
----
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=PreetiPoriya)
 
-
-
+---
 ### ⭐ Thanks for visiting my profile!
