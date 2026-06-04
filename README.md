@@ -48,7 +48,7 @@ Coming from a non-technical background has taught me that dedication, consistenc
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
----
+
 
 ## 📊 GitHub Stats
 
