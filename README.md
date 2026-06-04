@@ -19,7 +19,8 @@ Coming from a non-technical background has taught me that dedication, consistenc
 
 ## 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/preetiporiyaa8040a343" target="_blank">
+
+<a href="https://www.linkedin.com/in/preetiporiyaa8040a343">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
 
