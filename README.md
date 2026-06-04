@@ -1,7 +1,6 @@
 # Hi, I'm Preeti 👋
 🚀 A Mathematics student exploring the endless possibilities of Data Science, Machine Learning and AI.
 
----
 ## 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/preetiporiyaa8040a343" title="LinkedIn">
